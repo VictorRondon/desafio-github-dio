@@ -1,2 +1,3 @@
-# Repositório para o primeiro desafio de projeto DIO
-Desafio de Projeto Git/GitHub feito no bootcamp
+# Desafio de Projeto Git/GitHub
+
+Bootcamp realizado pela Digital Innovation!
